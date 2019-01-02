@@ -1,4 +1,5 @@
-#Prime Collaboration Provisioning
+Prime Collaboration Provisioning
+--------------------------------
 A set of scripts to assist with Prime Collaboration Provisioning batch and other operations.
 
 Currently this consists of the following files:
